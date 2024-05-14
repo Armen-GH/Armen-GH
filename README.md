@@ -20,16 +20,18 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/h_armen97#gh-dark-mode-only)
 
 ### Languages:
+[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="CPP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Markdown" width="26px" media="(prefers-color-scheme: light)" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg#gh-light-mode-only" style="padding-right:10px;" />](#) <!-- Dark Mode -->
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](#)&nbsp;
+
 &nbsp;
 
 ### Technologies:
@@ -53,12 +55,9 @@
 [<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="RStudio" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](#)&nbsp;
-
-### Currently Learning:
+[<img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](#)
 [<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](#)&nbsp;
+
 
 
 [website]: www.armengh.com
