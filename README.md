@@ -1,63 +1,69 @@
-### Howdy, partner! The name's Armen 🤠
+<h2 align="left">Hi 👋! I'm Armen HADDAD and I'm a MSc in Data Science Student at EPITA from Armenia</h2>
 
-## I'm a Masters studentin Data Science & Analytics at EPITA
-- 🌱 I'm currently working on my website portfolio, my first Kaggle competition and French! 
-- 🔎 Actively seeking new opportunities to apply my skills and contribute to innovative projects
-- ⚡ Fun fact: I love to read, lift weights and play video games
+###
 
-### How to reach me:
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-[![website](./img/globe-light.svg)](https://armengh.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://armengh.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/armen-haddad-321443111#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/armen-haddad-321443111#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/HaddadArmen#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/HaddadArmen#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/h_armen97#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/h_armen97#gh-dark-mode-only)
+###
 
-### Languages:
-[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/r/r-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="CPP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Markdown" width="26px" media="(prefers-color-scheme: light)" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/markdown/markdown-original.svg#gh-light-mode-only" style="padding-right:10px;" />](#) <!-- Dark Mode -->
-[<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](#)&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+</div>
 
-&nbsp;
+###
 
-### Technologies:
-[<img align="left" alt="Anaconda" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Apache" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-line.svg" style="padding-right:10px;" />](#) <!-- Dark Mode -->
-[<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" style="padding-right:10px;" />](#) <!-- Dark Mode -->
-[<img align="left" alt="Confluence" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Cucumber" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cucumber/cucumber-plain.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" />](#) <!-- Dark Mode -->
-[<img align="left" alt="Gradle" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gradle/gradle-plain.svg" style="padding-right:10px;" />](#)
-<!-- IntelliJ -->
-<!-- Jira -->
-[<img align="left" alt="Kaggle" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Kotlin" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Matlab" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Numpy" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Putty" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/putty/putty-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="PyCharm" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="PyTorch" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/redis/redis-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="RStudio" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Selenium" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/selenium/selenium-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="TensorFlow" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />](#)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="lannisterr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="armenhaddade@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/armen-haddad-321443111/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/armenhaddade" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
 
-
-
-<!-- [website]: www.armengh.com -->
+###
