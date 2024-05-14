@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! I'm Armen HADDAD and I'm a Masters student in Data Science and analytics student at EPITA, located in Paris</h2>
+<h2 align="left">Hi👋! I'm Armen HADDAD and I'm a Masters student in Data Science and analyticsat EPITA, currently residing in Paris</h2>
 
 ###
 
@@ -59,7 +59,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="toBeReplacedLater" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
   <a href="lannisterr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
