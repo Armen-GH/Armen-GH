@@ -1,10 +1,9 @@
 ### Howdy, partner! The name's Armen 🤠
 
-## I'm a recent Computer Science graduate with a passion for both Data Science and Software Engineering!
+## I'm a Masters studentin Data Science & Analytics at EPITA
 - 🌱 I'm currently working on my website portfolio, my first Kaggle competition and French! 
 - 🔎 Actively seeking new opportunities to apply my skills and contribute to innovative projects
-- 🥅 2023 goals: Start contributing to open source projects
-- ⚡ Fun fact: I love to read, lift weights and video games
+- ⚡ Fun fact: I love to read, lift weights and play video games
 
 ### How to reach me:
 
