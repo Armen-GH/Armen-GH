@@ -1,8 +1,16 @@
-<h2 align="left">Hi 👋! I'm Armen HADDAD and I'm a MSc in Data Science Student at EPITA from Armenia</h2>
+<h2 align="left">Hi👋! I'm Armen HADDAD and I'm a Masters student Data Science and analytics student at EPITA</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armen-GH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Armen-GH&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Armen-GH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDU5cTViajlobG1oMHd3aGdpZWk1bHlkbzV6Yjc3dHR3Y3lxenNiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cXblnKXr2BQOaYnTni/giphy.gif"  />
 
 ###
 
@@ -65,5 +73,11 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Armen-GH/Armen-GH/output/snake.svg" alt="Snake animation" />
 
 ###
