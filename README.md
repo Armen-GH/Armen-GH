@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! I'm Armen HADDAD and I'm a Masters student in Data Science and analytics at EPITA, currently residing in Paris</h2>
+<h2 align="left">Hi👋! I'm Armen HADDAD and I'm a Masters student in Software Engineering at EPITA, living in Paris</h2>
 
 ###
 
